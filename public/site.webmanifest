@@ -1,0 +1,18 @@
+{
+  "name": "Archana Travels",
+  "short_name": "Archana",
+  "description": "Trusted car travel from Sholinghur, Tamil Nadu. Outstation, Airport, Pilgrimage & Wedding.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#071A0E",
+  "theme_color": "#C9A227",
+  "lang": "en-IN",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
